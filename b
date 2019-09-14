@@ -1,2 +1,2 @@
-2nd commit by remote
-3rd commit by remote
+2nd commit modified by local
+3rd commit
